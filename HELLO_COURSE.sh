@@ -1,0 +1,3 @@
+#!/bin/bash
+HELLO_COURSE="HELLO_COURSE"
+   echo HELLO_COURSE
